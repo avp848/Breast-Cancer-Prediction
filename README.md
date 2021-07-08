@@ -1,2 +1,3 @@
 # Breast-Cancer-Prediction
-Efficiently classifying tumors as malignant or benign
+## Problem Statement
+The key challenge was to efficiently classify and diagnose tumors as malignant or benign.
