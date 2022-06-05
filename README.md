@@ -6,11 +6,15 @@ The key challenge was to efficiently classify and diagnose tumors as malignant o
 The original dataset is from University of Wisconsin Hospital. However, the data provided for this study wasn’t clean, and we had to drop the id and unnamed columns so as to remove any NA values and be able to operate on a fully functional dataset.
 
 ### Methodology
-I had to build a ML classifier to predict if the tumor was cancerous or not. To do so, I incorporated logistic regression, classification, and class imbalance to create the most efficient model.
+I built a machine learning classifier to predict if the tumor was cancerous or not. To do so, I incorporated logistic regression, classification, and class imbalance to analyze tumor features and create the most efficient model.
+
+### Visualizations
+
+
 
 ### Algorithms Used
-KKNN, KKNN-balanced, SVM, GLM, RPART
-Classified malignant and benign tumors into numeric values of 1 and 0 respectively
+ - KKNN, KKNN-balanced, SVM, GLM, RPART
+ - Classified malignant and benign tumors into numeric values of 1 and 0 respectively
 
 ### Challenges
 - Varying accuracy 
