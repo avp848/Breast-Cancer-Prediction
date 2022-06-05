@@ -19,3 +19,5 @@ I built a machine learning classifier to predict if the tumor was cancerous or n
 
 ### Significance
 ML models improve accuracy and are useful tools to make the diagnosis more efficient. Most oncologists are able to diagnose at 75% accuracy while ML can give you around 92-95% accuracy. This improves the detection of cancer in early stages, which is key to prevent metastasis and death. The final model was built using SVM as it gave the best accuracy of 97.05%.
+
+https://docs.google.com/presentation/d/1DPViGR7NdCtW4aUZHc8rQSXif_mDV8MWyteYTte0qDg/edit?usp=sharing
