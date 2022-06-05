@@ -8,10 +8,6 @@ The original dataset is from University of Wisconsin Hospital. However, the data
 ### Methodology
 I built a machine learning classifier to predict if the tumor was cancerous or not. To do so, I incorporated logistic regression, classification, and class imbalance to analyze tumor features and create the most efficient model.
 
-### Visualizations
-
-
-
 ### Algorithms Used
  - KKNN, KKNN-balanced, SVM, GLM, RPART
  - Classified malignant and benign tumors into numeric values of 1 and 0 respectively
@@ -22,4 +18,4 @@ I built a machine learning classifier to predict if the tumor was cancerous or n
 - Being able to use best set of features without much domain knowledge
 
 ### Significance
-ML models improve accuracy and are useful tools to make the diagnosis more efficient. Most oncologists are able to diagnose at 75% accuracy while ML can give you around 92-95% accuracy. This improves the detection of cancer in early stages, which is key to prevent metastasis and death. 
+ML models improve accuracy and are useful tools to make the diagnosis more efficient. Most oncologists are able to diagnose at 75% accuracy while ML can give you around 92-95% accuracy. This improves the detection of cancer in early stages, which is key to prevent metastasis and death. The final model was built using SVM as it gave the best accuracy of 97.05%.
